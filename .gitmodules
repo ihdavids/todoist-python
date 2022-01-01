@@ -1,0 +1,3 @@
+[submodule "orgparse"]
+	path = orgparse
+	url = https://github.com/karlicoss/orgparse.git
